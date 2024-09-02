@@ -1,6 +1,5 @@
 #include <stdio.h>
-/// @brief 
-/// @return 
+
 int main(){
     int a[],i;
     printf("Enter the array size");
